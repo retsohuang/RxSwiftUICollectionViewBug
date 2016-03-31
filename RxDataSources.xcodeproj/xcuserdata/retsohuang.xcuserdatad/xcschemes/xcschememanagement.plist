@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Example-Carthage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Example.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>RxDataSources-iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>RxDataSources-tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>RxDataSources.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9FCDA1621C3AF49A000F5F94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C8984C591C36AF35001E4272</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C8984C9A1C36B6FA001E4272</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C8984CB01C36B723001E4272</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C8BB76401C4C3DD4002B21C8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C8BB765D1C4C3E53002B21C8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
